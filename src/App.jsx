@@ -9,7 +9,7 @@ function App() {
 
     const linksData = [
         { name: 'Home', href: '/'},
-        { name: 'About', href: '/about'},
+        { name: 'About', href: '/AboutMe'},
         { name: 'Astros', href: '/astros'},
     ]
 
@@ -34,6 +34,7 @@ function App() {
         </>
     )
 }
+
 
 
 

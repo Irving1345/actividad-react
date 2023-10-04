@@ -1,17 +1,15 @@
-
-
 .player-card {
     border: 1px solid #ccc;
     padding: 20px;
     margin: 10px;
     max-width: 300px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+    border-radius: 90px;
   }
   
   .player-image {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 90px;
   }
   
   .player-info {
